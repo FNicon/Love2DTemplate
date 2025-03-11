@@ -1,0 +1,6 @@
+{
+	"scripts": {
+		"Run": "cd ../game && lovec .",
+		"Build": "cd ../game && makelove --config ../tools/build/makelove.toml"
+	}
+}
