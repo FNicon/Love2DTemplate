@@ -39,3 +39,13 @@ luac.out
 *.x86_64
 *.hex
 
+*~
+/releases
+/buildtools/appimage/love-prepared/
+/buildtools/appimage/*.AppImage
+/buildtools/appimage/squashfs-root
+*.private
+
+.env
+
+.vscode
